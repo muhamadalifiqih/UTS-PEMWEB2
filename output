@@ -1,0 +1,45 @@
+<?php
+<header>
+  <h1>Data Pemantauan Covid19 Wilayah DKI Jakarta</h1>
+  <h2>Per 23 April 2020 23:59 WIB </h2>
+</header>
+
+<table width = 500 border =4>
+<tr bgcolor=00fffff>
+<td>Nama Wilayah</td>
+<td>Positif</td>
+<td>Dirawat</td>
+<td>Sembuh</td>
+<td>Meninggal</td>
+</tr>
+<tr>
+<td>DKI Jakarta</td>
+<td>3517</td>
+<td>2010</td>
+<td>326</td>
+<td>301</td>
+</tr>
+<tr>
+<td>Jawa Barat</td>
+<td>784</td>
+<td>2122</td>
+<td>87</td>
+<td>74</td>
+</tr>
+<tr>
+<td>Banten</td>
+<td>337</td>
+<td>901</td>
+<td>29</td>
+<td>35</td>
+</tr>
+<tr>
+<td>Jawa Tengah</td>
+<td>538</td>
+<td>369</td>
+<td>54</td>
+<td>53</td>
+</tr>
+</table>
+
+?>
